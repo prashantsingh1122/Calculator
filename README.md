@@ -1,2 +1,2 @@
 # Calculator
-The wensite for basic calculation.
+The website for basic calculation.
